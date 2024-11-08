@@ -1,18 +1,6 @@
 # Experiment 12
 
-## Contents
-- [Aim](#Aim)
-- [Software Used](#Software-used)
-- [Theory](#Theory)
-  * [Purpose of Constructors](#purpose-of-constructors)
-  * [Types of Constructors](#types-of-constructors)
-  * [Default Constructor](#default-constructor)
-  * [Parameterized Constructor](#parameterized-constructor)
-  * [Copy Constructor](#copy-constructor)
-  * [Constructor Overloading](#constructor-overloading)
-  * [Destructors](#destructors)
-- [Algorithms](#Algorithms)
-- [Conclusion](#Conclusion)
+
   
 ## Aim 
 To study Constructors
